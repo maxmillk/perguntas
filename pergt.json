@@ -1,0 +1,30 @@
+{
+  "questions": [
+    {
+      "question": "Qual é a velocidade máxima permitida em uma via urbana não sinalizada?",
+      "options": ["30 km/h", "40 km/h", "50 km/h", "60 km/h"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Quando um veículo é considerado em estado de embriaguez?",
+      "options": ["Quando o condutor consome qualquer quantidade de álcool", "Quando o condutor apresenta uma concentração de álcool no sangue igual ou superior a 0,6g/L", "Quando o condutor apresenta sinais visíveis de embriaguez, independentemente do consumo de álcool", "Quando o condutor está com a carteira de habilitação suspensa por embriaguez ao volante"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "O que significa a placa de trânsito com fundo azul e letras brancas?",
+      "options": ["Indica uma via de mão única", "Indica uma via de sentido duplo", "Indica uma zona de estacionamento proibido", "Indica uma zona de velocidade máxima permitida"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "O que deve ser feito ao se aproximar de uma rotatória?",
+      "options": ["Reduzir a velocidade e dar preferência aos veículos que já estão na rotatória", "Aumentar a velocidade para garantir a entrada na rotatória", "Parar completamente antes de entrar na rotatória", "Utilizar a buzina para alertar os veículos que já estão na rotatória"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quais são as penalidades para quem dirige utilizando o celular?",
+      "options": ["Advertência por escrito e multa", "Apreensão da carteira de habilitação e multa", "Suspensão da carteira de habilitação e multa", "Prisão e suspensão da carteira de habilitação"],
+      "correctAnswer": 2
+    }
+    // Adicione mais perguntas aqui...
+  ]
+}
